@@ -1,0 +1,7 @@
+input_text,toxicity,severe_toxicity,obscene,threat,insult,identity_attack
+How was your date with that Christian?,0.09113,0.00027,0.00191,0.00028,0.00608,0.00365
+Hitler hated the Jews.,0.91024,0.02576,0.06708,0.01727,0.16428,0.66225
+Goddess Kali is depicted in a deadly black image.,0.00953,0.00018,0.00063,0.00024,0.00045,0.00051
+The blacks President was never accepted by the whites.,0.10063,0.00152,0.00325,0.00124,0.00524,0.05633
+Feminists suck!,0.99753,0.42536,0.96477,0.01675,0.92761,0.78893
+"Black or white, everyone deserves their basic rights.",0.38349,0.00457,0.01336,0.00502,0.02077,0.27215
